@@ -7,7 +7,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Sebuah aplikasi chat interaktif dengan AI assistant berkepribadian **Kawaii Kuudere** yang membantu pengguna mencari dan memilih laptop sesuai kebutuhan mereka. Dibangun dengan Laravel 11 dan Google Gemini AI.
+Sebuah aplikasi chat interaktif dengan AI assistant berkepribadian **Kawaii Kuudere** yang membantu pengguna mencari dan memilih laptop sesuai kebutuhan mereka. Dibangun dengan Laravel 12 dan Google Gemini AI.
 
 </div>
 
